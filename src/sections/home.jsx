@@ -66,14 +66,14 @@ const Home = () => {
               </h1>
               <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-semibold text-gray-600">
                 <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  Full Stack Developer
+                  MERN Stack Developer
                 </span>
               </h2>
             </div>
 
             {/* Bio */}
             <p className="text-white text-base sm:text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto lg:mx-0">
-              I'm a passionate Full Stack Developer specializing in building
+              I'm a passionate MERN Stack Developer specializing in building
               modern, responsive, and scalable web applications. I work with
               HTML, CSS, JavaScript, React.js, Node.js, Express.js, Next.js,
               Python, and WordPress to create high-quality digital experiences.

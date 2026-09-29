@@ -281,10 +281,6 @@ const Testimonials = () => {
     </a>
   </div>
 </div>
-
-
-
-
         </motion.div>
       </div>
     </section>

@@ -138,7 +138,7 @@ const About = () => {
                 <p className="text-gray-600 text-base md:text-lg leading-relaxed">
                   I'm a passionate{" "}
                   <span className="font-bold text-blue-600">
-                    Full Stack Developer
+                    MERN Stack Developer
                   </span>{" "}
                   who loves creating beautiful, functional, and user-friendly
                   web applications. My journey began with curiosity and has
