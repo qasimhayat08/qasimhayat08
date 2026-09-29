@@ -48,7 +48,7 @@ const Home = () => {
               </div>
               <div className="absolute -bottom-2 -left-2 sm:-bottom-3 sm:-left-3 md:-bottom-4 md:-left-4 bg-white rounded-full shadow-lg px-3 py-1.5 sm:px-4 sm:py-2 opacity-0 scale-75 group-hover:opacity-100 group-hover:scale-100 transition-all duration-500 delay-200">
                 <span className="text-xs sm:text-sm font-semibold text-gray-700">
-                  🚀 3+ Years
+                  🚀 1+ Years
                 </span>
               </div>
             </div>
@@ -90,8 +90,8 @@ const Home = () => {
               </button> */}
 
               <a
-                href="/Qasim-Hayat-cv.pdf"
-                download="qasim-hayat-cv.pdf"
+                href={`${import.meta.env.BASE_URL}Qasim-Hayat-cv.pdf`}
+                download="Qasim-Hayat-cv.pdf"
                 className="px-8 sm:px-10 py-3.5 sm:py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 flex items-center gap-2 text-sm sm:text-base lg:text-lg"
               >
                 <HiDownload className="text-lg sm:text-xl lg:text-2xl" />
