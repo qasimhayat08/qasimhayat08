@@ -90,7 +90,7 @@ const Home = () => {
               </button> */}
 
               <a
-                href="/qasim-hayat-cv.pdf"
+                href="/Qasim-Hayat-cv.pdf"
                 download="qasim-hayat-cv.pdf"
                 className="px-8 sm:px-10 py-3.5 sm:py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 flex items-center gap-2 text-sm sm:text-base lg:text-lg"
               >
